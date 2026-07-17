@@ -1,0 +1,17 @@
+
+
+<div class="project__menu">
+<p class="_label">Projects</p>
+<menu>
+	{{ range where .Site.RegularPages.ByTitle "Type" "projects" }}
+	<li
+  {{- if .Draft }}
+		class="project--item _draft"
+		{{- else }}
+		class="project--item"
+			{{- end }}><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}
+</menu>
+</div>
+
+

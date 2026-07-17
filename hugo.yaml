@@ -1,0 +1,28 @@
+baseURL: https://chantalpartamian.com/
+locale: en-us
+title: Chantal Partamian
+theme: PaperMod
+
+params:
+  subtitle: "Filmmaker & Archivist"
+  hideMeta: true
+  hideSummary: true
+  disableThemeToggle: true
+  showPostNavLinks: true
+
+
+menus:
+  header:
+    - name: About
+      pageRef: /about
+      weight: 10    
+    - name: Press
+      pageRef: /press
+      weight: 30
+    - name: Publications
+      pageRef: /publications
+      weight: 20
+    - name: KATSAKH Archives
+      pageRef: /katsakh
+      weight: 40
+
