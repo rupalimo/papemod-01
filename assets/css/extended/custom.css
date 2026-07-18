@@ -86,11 +86,6 @@ menu {
 	transform: translateY(-2px);
 }
 
-.page-header,
-.post-header {
-    margin: 14px auto var(--content-gap) auto;
-}
-
 .project--list, .page-footer, .footer span + span {
 	display: none;
 }

@@ -3,7 +3,7 @@
 <div class="project__menu">
 <p class="_label">Projects</p>
 <menu>
-	{{ range where .Site.RegularPages.ByTitle "Type" "projects" }}
+	{{ range where .Site.RegularPages.ByDate.Reverse "Type" "projects" }}
 	<li
   {{- if .Draft }}
 		class="project--item _draft"
