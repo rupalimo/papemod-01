@@ -11,7 +11,28 @@ title: 'L’Arbre'
 ## Description
 The project explores the cinematic gaze towards queer bodies as well as their constant absence from the recurrent narrative or collective memory. It started with the discovery of 80s pornographic found footage and so we asked ourselves the question, what if this was found in a dilapidated house? What if instead of the process of the image disintegrating, we bring it to life as if the disintegrated lives of queer women that were meant to stay unseen or disfigured or left to rot slowly come to life and assert their presence within the context of the 80s in Lebanon, a period so overtly represented by war and violence and from which all narrative about personal lives and intimacy is removed.
 
-<!-- ## Screenings -->
+## Screenings
+
+**2026**
+- 29e Rencontres Internationales Traverse | Toulouse, France
+
+**2025**
+- Fluxus Experimental Film Festival | Hamilton, Canada
+
+**2024**
+- Fluxus Experimental Film Festival | Hamilton, Canada
+- Crossroads (Program 8: Move Forward and Breathe) | San Francisco, USA
+- Festival Filministes: Pratiques Autodocumentaires | Montreal, Canada
+- 37. Stuttgarter Filmwinter Festival for Expanded Media | Stuttgart, Germany
+
+**2023**
+- Rendez-vous Québec Cinéma | Montreal, Canada
+- Exploding Cinema | London, UK
+- Alchemy Film & Arts: Welcome to the Daily Calm | Scottish Borders, UK
+
+**2022**
+- Instants Vidéo Numériques et Poétiques | Marseille, France
+- ANALOGICA 12, Program 6 | Bolzano, Italy
 
 <!-- ## Awards -->
 

@@ -13,7 +13,38 @@ To linger between states, between nation-states. A poetical essay that very brie
 
 <!-- ## Historical Context -->
 
-<!-- ## Screenings -->
+## Screenings
+
+**2025**
+- 8th Edition Porto Femme (Curated by Joana de Sousa) | Porto, Portugal
+
+**2023**
+- Festival International du Film sur l'Art | Montreal, Canada
+- SWANA Film Festival | Parramatta, Australia
+
+**2022**
+- Institut du Monde Arabe: Courts en Liberté | Paris, France 
+- 10th International Video Poetry Festival | Athens, Greece
+- Queer City Cinema | Regina, Canada
+- Feminist Border Arts Film Festival | New Mexico, USA
+- Montreal Underground Film Festival | Montreal, Canada
+- 17th Cinema on the Bayou Virtual Film Festival | Louisiana, USA
+
+**2021**
+- Revolutions per Minute, Contours of Infinity | Boston, USA
+- International Arts Festival | Tranås, Sweden 
+- Bideodromo: Festival Internacional de Cine y Video Experimental | Bilbao, Spain
+- Cinema Queer | Stockholm, Sweden
+- Unrest of Elsewhere (Curated by Esmé Babineaux for Arya Films and Curate.it) | UK
+- 6e Grande Rencontre des Arts Médiatiques | Gaspésie, Canada
+- 30e Édition Vidéos de Femmes dans le Parc (Curated by: Anne Golden, Annaëlle Winand, Verónica Sedano Alvarez) | Montreal, Canada
+- Cinema Al Fouad Film Festival | Beirut, Lebanon
+- Cabriolet Film Festival, Exist | Beirut, Lebanon
+- Alchemy Film & Arts: Shorts: Stout Footwear Advised | Scottish Borders, UK
+- Rencontres Internationales Casablanca pour le FIAV | Casablanca, Morocco
+
+**2020**
+- Toronto Arab Film | Toronto, Canada
 
 <!-- ## Awards -->
 

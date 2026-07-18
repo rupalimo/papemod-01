@@ -18,5 +18,30 @@ An Anthology Movie by Jaap Pieters (Amsterdam), Chantal Partamian (Beirut), Mirc
 - Co-produced by Home Movies Archivio Nazionale del Film di Famiglia, Six Gates Films / La Camera Ottica / C.R.E.A..
 - With live music performed by Sharif Sehnaoui at Dawawine Beirut
 
+<!-- ## Historical Context -->
+
+## Screenings
+
+**2017**
+- Isolab Darkroom | L’Associazione Spiazzi 
+- Synapses 0: SUPER8 Screening and Cine Concert | Dawawine, Beirut
+
+**2016**
+- Film Festivals: History, Theory, Method, Practice
+- Filmmakers Fest
+- Kino Otok | Izola, Slovenia
+- 4 Kolutov + Kvartet ZOC
+- Filmforum 2016
+
+**2015**
+- Bologna Home Movies, Archivio Nazionale del Film di Famiglia, Six Gates Films
+
+<!-- ## Awards -->
+
+<!-- ## Distributor -->
+
+<!-- ## Credits -->
+
+
 ## Press
 _"#5 Beirut – Una ragazza va a fare visita alla nonna, e nel tragitto illustra la  città. Chantal Partamian (Beirut, 1984) concentra il suo lavoro su immigrazione, identità, genere e conflitti, come mostrano il pluripremiato documentario Chère N. realizzato durante la guerra del Libano 2006, e Shelter, del 2015. Ha anche lavorato come editor ed è un’esperta “coach” in guerilla cinema, social media e critica cinematografica._

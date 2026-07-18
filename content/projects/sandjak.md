@@ -14,7 +14,32 @@ In 1939, following an agreement signed by France, the Alexandretta Sandjak in Sy
 ## Historical Context
 Throughout the latter half of the 20th century, the camp gradually expanded and its population diversified. The increasing urbanization of cities in Lebanon has led to the eradication of the camp. The Armenian diaspora in Lebanon has made no significant attempt to prevent the destruction of the camp or to understand or eradicate the material and social conditions that have ensured that a camp persists for at least 60 years. Families in the camp reported receiving between $ 3,000 and $ 5,000 compensation from the municipality.
 
-<!-- ## Screenings -->
+## Screenings
+
+**2025**
+- Liban: Face à face | Paris, France
+- Buried Memories and Tangled Roots (Curated by Ultradogme) | Istanbul, Turkey
+- Mirofolies Festival (Curated by Festival du Film Franco-Arabe) | Noisy-le-Sec, France
+- Licht Kunst Festival Lüdenscheid | Heidenheim, Germany
+
+**2023**
+- Grande Rencontre des Arts Médiatiques | Gaspésie, Canada
+- KASK Cinema Activities, Tashattot Collective | Gent, Belgium
+- 15e Édition, Elles Tournent: Brussels Women’s Film Festival | Brussels, Belgium
+
+**2022**
+- Middle East Studies Association FilmFest | Denver, Colorado
+- Pomegranate Film Festival | Toronto, Canada
+- Toronto Arab Film Festival | Toronto, Canada
+- 9e édition du Festival Aflam | Marseille, France
+- Burnt Video Art and Experimental Film Festival | Montreal, Canada 
+- Alexandria International Short Film Festival | Alexandria, Egypt
+
+**2021**
+- Lebanese Film Festival in Canada | Halifax, Canada
+- One Shot Film Festival, 19th Edition | Yerevan, Armenia
+- Lebanese Film Festival in Canada | Montreal, Canada
+- Écrans du Réel Documentary Film Festival | Beirut, Lebanon
 
 <!-- ## Awards -->
 

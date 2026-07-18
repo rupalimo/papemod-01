@@ -13,7 +13,14 @@ Developed during the “Armenia-Turkey Cinema Platform (ATCP) Project Developmen
 
 _Epistemic Space (2015)_ a documentary short film developed during the Armenia-Turkey Cinema Platform Project Development Workshop at the Golden Apricot Yerevan International Film Festival. Set in April 2015, the film reflects on a mass march along Istiklal Street, where thousands gathered under the slogan “We are here.” Layering this charged moment with the contested history of Kamp Armen, it traces the presence of Armenian lives in the city. Through this palimpsest of protest, memory, and buried histories, the film constructs an epistemic space evoking the ghosts of past violence while questioning how collective histories are continuously negotiated and made perceptible.
 
-<!-- ## Screenings -->
+## Screenings
+
+**2017**
+- Phenicien International Film Festival | Lyon, France
+- APRICOT TREE International Ethnographic Film Festival | Yerevan, Armenia
+
+**2016**
+- 13th Golden Apricot IFF | Yerevan, Armenia
 
 
 <!-- ## Awards -->

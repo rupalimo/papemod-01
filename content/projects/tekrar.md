@@ -9,20 +9,22 @@ title: 'Tekrar | تكرار'
 - French audio
 
 ## Description
-A collage of archival footage, super 8mm and pal formats exploring the redundant repetitive trap of war.
 
-<!-- ## Screenings -->
+A collage of archival footage, super 8mm and pal formats exploring the redundant
+repetitive trap of war.
 
+## Screenings
+
+**2017**
+
+- Festival Images Contre Nature | Marseille, France
 
 <!-- ## Awards -->
 
-
 ## Distributor
+
 videographe.org / distribution@videographe.org / vitheque.com
 
 <!-- ## Credits -->
 
-
 <!-- ## Press -->
-
-

@@ -11,8 +11,13 @@ title: 'Binge'
 ## Description
 Bipolar disorder is characterized by its sudden manic surge. It is now 3 a.m. A collage of found footage and stop motion.
 
-<!-- ## Screenings -->
+## Screenings
 
+**2017**
+- Roma Cinema Doc | Roma, Italy
+- Chouftouhounna Feminist Festival | Tunis, Tunisia
+- Miniature Film Festival | Vancouver, Canada 
+- FliQs-Montreal | Montreal, Canada
 
 <!-- ## Awards -->
 

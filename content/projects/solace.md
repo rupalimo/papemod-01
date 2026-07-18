@@ -13,7 +13,29 @@ When the Beirut explosion occurred, my first thought was that of relief that my 
 
 <!-- ## Historical Context -->
 
-<!-- ## Screenings -->
+## Screenings
+
+**2025**
+- EXPMTL (Curated by Benjamin R. Taylor) | Adelaide, Australia
+- EXPMTL (Curated by Benjamin R. Taylor) | Perth, Australia
+- EXPMTL (Curated by Benjamin R. Taylor) | Melbourne, Australia 
+- EXPMTL (Curated by Benjamin R. Taylor) | Sydney, Australia
+
+**2023**
+- 100-Second International Film Festival | Tehran, Iran
+
+**2022**
+- Black Cat Award International Film Festival | Bolivia
+- Crossroads: Program 4 (Curated by Steve Polka) | San Francisco, USA
+- Dresdner Schmalfilmtage | Dresden, Germany
+
+**2021**
+- Center of Oral History Montreal | Worldwide
+- Non-Syntax Experimental Image Festival | Tokyo, Japan
+
+**2020**
+- “This Is Not Lebanon”: Film Programme, Sent from Elsewhere | Frankfurt, Germany
+
 
 <!-- ## Awards -->
 
