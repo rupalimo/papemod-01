@@ -1,7 +1,8 @@
 baseURL: https://chantalpartamian.com/
 locale: en-us
 title: Chantal Partamian
-theme: PaperMod
+theme: 
+  - PaperMod
 
 params:
   subtitle: "Filmmaker & Archivist"
