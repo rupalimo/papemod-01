@@ -1,6 +1,6 @@
 ---
 date: '2026-07-14T19:17:44-04:00'
-draft: true
+draft: false
 title: 'KATSAKH Archives'
 menu: header
 ---

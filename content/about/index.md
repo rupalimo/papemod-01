@@ -1,6 +1,6 @@
 ---
 date: '2026-07-16T11:31:30-04:00'
-draft: true
+draft: false
 title: 'About'
 ShowToc: true
 menu: header

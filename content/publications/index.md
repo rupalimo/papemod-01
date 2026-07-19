@@ -1,6 +1,6 @@
 ---
 date: '2026-07-14T19:16:29-04:00'
-draft: true
+draft: false
 title: 'Publications'
 menu: header
 ---
