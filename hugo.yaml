@@ -10,6 +10,9 @@ params:
   disableThemeToggle: true
   showPostNavLinks: true
 
+caches:
+  images:
+    dir: :cacheDir/images
 
 menus:
   header:
