@@ -2,6 +2,7 @@
 date: '2026-07-14T19:16:57-04:00'
 draft: true
 title: 'Press'
+menu: header
 ---
 
 - Bakhchinyan, A. (2025, August 21). Chantal Partamian: Reviving film archives. The Armenian Mirror-Spectator. Arts & Culture https://mirrorspectator.com/2025/08/21/chantal-partamian-reviving-film-archives/

@@ -2,6 +2,7 @@
 date: '2026-07-14T19:16:29-04:00'
 draft: true
 title: 'Publications'
+menu: header
 ---
 
 - World Records Journal — Conversation, Presence, Politics. By Chantal Partamian. Roundtable 2. December 2025.
