@@ -7,6 +7,8 @@ title: 'In Memoriam'
 - 1min 28sec, Lebanon & Armenia, 2014
 - Super 8mm, Digital, Stereo
 
+{{< vimeo 112680638 >}}
+
 ## Description
 The Armenian Genocide memorial complex (Armenian: Հայոց ցեղասպանության զոհերի հուշահամալիր) is Armenia's official memorial dedicated to the victims of the Armenian Genocide. The 44-meter stele symbolizes the national rebirth of Armenians.
 

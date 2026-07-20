@@ -5,7 +5,7 @@ title: 'Press'
 menu: header
 ---
 
-- Bakhchinyan, A. (2025, August 21). Chantal Partamian: Reviving film archives. The Armenian Mirror-Spectator. Arts & Culture https://mirrorspectator.com/2025/08/21/chantal-partamian-reviving-film-archives/
+- Bakhchinyan, A. (2025, August 21). [Chantal Partamian: Reviving film archives. The Armenian Mirror-Spectator][1]. Arts & Culture.
 - Bahchinyan, A. (2025, July 25). Շանտալ Փարթամյան. Կինոարխիվներ վերակենդանացնողը. ԱԶԳ շաբաթաթերթ, Մշակույթ.
 - Samson, D. (2025). Chantal Partamian, Traces, 2023, 8'45, Canada (p. 90). In Catalogue du festival Traverse Vidéo – Programmation 2025. Traverse Vidéo.
 - Lehoux, C. (Winter 2025). Éclats des RIDM – Amour sans cesse et malgré tout. Hors-Champ, revue de cinéma en langue française.
@@ -24,3 +24,6 @@ menu: header
 - Meddeb, H. (2007, February 16). La chronique "Off" du Journal de la Culture de FRANCE 24. France 24.
 - Rouxel, M. (2016, August 16). Les clés du Moyen-Orient: La deuxième guerre du Liban (2006): Ten years later.
 	•	Media-Crisis. (2007, February). Media-Crisis / Liberation.
+
+	[1]: https://mirrorspectator.com/2025/08/21/chantal-partamian-reviving-film-archives/
+	

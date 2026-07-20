@@ -7,5 +7,7 @@ title: 'Aporie'
 - 30sec, Canada, 2022
 - Digital, Stereo
 
+{{< vimeo 645362212 >}}
+
 ## Description
 Invited response to Program 4 of the BURNT Video Art and Experimental Film Festival’s 3rd edition. _A declaration of doubt or a state of puzzlement._

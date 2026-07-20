@@ -8,17 +8,19 @@ menu: header
 
 Chantal Partamian is an experimental filmmaker and archivist with a focus on super 8mm and found footage. Her films, recognized and awarded at numerous festivals, are distributed through Vidéographe, Groupe Intervention Vidéo (GIV), and the Canadian Filmmakers Distribution Center.
 
-As an archivist, Partamian specializes in preserving and restoring film reels from the Eastern Mediterranean through the project: Katsakh Mediterranean Archives, while also conducting research on archival practices in conflict zones. Her written works are primarily published in the Revue Hors-Champ.
+As an archivist, Partamian specializes in preserving and restoring film reels from the Eastern Mediterranean through the project: [Katsakh Mediterranean Archives][1], while also conducting research on archival practices in conflict zones. Her written works are primarily published in the Revue Hors-Champ.
 
 Chantal Partamian's work spans both the artistic and archival realms, merging experimental cinema with preservation efforts to safeguard the cultural heritage of the Mediterranean region.
 
 ## Contact
 chantalpartamian@gmail.com
 
+![A grainy blue tinted image of a camera lens framed by a ornate white oval shaped frame.](/about.webp)
+
 ## Distributor
-- Vidéographe - Montreal
-- Canadian Filmmakers Distribution Centre 
-- Groupe Intervention Vidéo
+- [Vidéographe][2]
+- [Canadian Filmmakers Distribution Centre][3]
+- [Groupe Intervention Vidéo][4]
 
 ## University Lecturer
 - University of Toronto: University of Toronto: Department of Anthropology: Ethnographic Approaches to the Middle East and North Africa. Class by: Maya El Helou, October 2025
@@ -89,23 +91,39 @@ chantalpartamian@gmail.com
 - The final dwelling | Milad Tawk | Short Film | 2011
 
 **Camera Work**
-- Both, Instrument & Sound | Sharlene Bamboat  | Assistant Camera | Documentary | 2024
-Broken Dinners, Postponed Kisses | Nigol Bezjian | Documentary | 2018
-Me, Water, Life | Digital video installation by Nigol Bezjian for Art of the world , Switzerland | 2017
+- [Both, Instrument & Sound][5] | Sharlene Bamboat  | Assistant Camera | Documentary | 2024
+- [Broken Dinners, Postponed Kisses][6] | Nigol Bezjian | Documentary | 2018
+- Me, Water, Life | Digital video installation by Nigol Bezjian for Art of the world, Switzerland | 2017
 - Shelter | Tamara Qiblawi | Immersive documentary experience, Lebanon | 2015
 - Mshar2at | Khalil Bitar | Web-Series | 2015-2016
-- After This Day | Nigol Bezjian | Documentary | 2015
-- Shelter | Tamara Qiblawi | Documentary | 2015 
-- Thank You Ladies and Gentlemen | Nigol Bezjian | Documentary | 2014
+- [After This Day][7] | Nigol Bezjian | Documentary | 2015
+- [Shelter | Tamara Qiblawi][8] | Documentary | 2015 
+- [Thank You Ladies and Gentlemen][9] | Nigol Bezjian | Documentary | 2014
 
 **Assistant Director**
-- Still Burning | Georges Hachem | Feature film | 2016
-- Temple of Light | Nigol Bezjian | Documentary | 2014
-- Wake Up | Tarek Chehab | Short Film | 2014 
-- Jayebli Salam | Milad Tawk | Short Film | 2012
+- [Still Burning][10] | Georges Hachem | Feature film | 2016
+- [Temple of Light][11] | Nigol Bezjian | Documentary | 2014
+- [Wake Up][12] | Tarek Chehab | Short Film | 2014 
+- [Jayebli Salam][13] | Milad Tawk | Short Film | 2012
 
 **Other**
-- Mayrig: Direct Approach, a project based on conversations about violence in film and reality. 2017
+- Mayrig: [Direct Approach][14], a project based on conversations about violence in film and reality. 2017
 - The New Normal, Curated by Hiba Farhat and Murat Adash, Supa Salon Istanbul
 
 **Corporate collaborations** include: TV5 Monde, QEPC, Fade In, Arki Quebec, Sheertex, Mattel, UN ESCWA, Amideast, Abaad, Oxfam,  Al Arabiya, Alchimies Créations Et Cultures, Festival du Monde Arabe Montreal, Orientalys and many more.
+
+
+[1]: /katsakh
+[2]: https://www.videographe.org/
+[3]: https://www.cfmdc.org/
+[4]: https://www.givideo.org/
+[5]: https://sharlenebamboat.com/Both-Instrument-Sound
+[6]: https://www.imdb.com/title/tt8893396/
+[7]: https://www.imdb.com/title/tt5271820/
+[8]: https://www.imdb.com/title/tt4707724/
+[9]: https://www.imdb.com/title/tt4110002/
+[10]: https://www.imdb.com/title/tt6273462/
+[11]: https://www.imdb.com/title/tt6053212/
+[12]: https://www.imdb.com/title/tt4124278/
+[13]: https://www.imdb.com/title/tt4124728/
+[14]: https://www.direct-approach.org/mayrig/

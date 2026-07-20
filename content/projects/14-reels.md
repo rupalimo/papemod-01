@@ -7,6 +7,8 @@ title: '14 Reels'
 - 52min, Lebanon & Italy, 2016
 - Super 8mm & Digital, Stereo
 
+{{< vimeo 180585734 >}}
+
 ## Description
 14 Reels distributed to 14 Directors in 14 Cities around the World to celebrate the Super8 50th Anniversary.
 

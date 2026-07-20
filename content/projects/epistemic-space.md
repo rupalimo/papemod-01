@@ -8,6 +8,8 @@ title: 'Epistemic Space'
 - Digital, Stereo
 - Armenian audio, English & French subtitles
 
+{{< vimeo 134205557 >}}
+
 ## Description
 Developed during the “Armenia-Turkey Cinema Platform (ATCP) Project Development Workshop” in Yerevan (July 13–14, 2015), as part of the 12th Golden Apricot Yerevan International Film Festival.
 

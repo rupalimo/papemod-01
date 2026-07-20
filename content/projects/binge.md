@@ -8,6 +8,10 @@ title: 'Binge'
 - Digital, Stereo
 - English
 
+
+{{< vimeo 183940816 >}}
+
+
 ## Description
 Bipolar disorder is characterized by its sudden manic surge. It is now 3 a.m. A collage of found footage and stop motion.
 

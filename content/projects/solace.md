@@ -8,6 +8,8 @@ title: 'Solace | عزاء '
 - Super 8mm, Stereo
 - Arabic,  English subtitles
 
+{{< vimeo 555896430 >}}
+
 ## Description
 When the Beirut explosion occurred, my first thought was that of relief that my grandmother had passed a year and some before. The best hours to sit outside amongst her plants and flowers were those of sunsets. How does one mourn when they are grateful for the occurrence of some deaths as salvation? How does one mourn when in separation, we spare the ones we love the end of their world?
 

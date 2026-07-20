@@ -8,6 +8,8 @@ title: 'Chère N.'
 - Super 8mm, Stereo
 - French audio, English & German subtitles
 
+{{< vimeo 529497745 >}}
+
 ## Description
 A letter-documentary shot in Lebanon in the summer of 2006, during the Israeli attack on Lebanon.
 A point of view that moves from Dahieh in Beirut toward a nearby bridge under reconstruction.

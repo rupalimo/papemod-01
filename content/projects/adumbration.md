@@ -2,14 +2,11 @@
 date: '2026-07-17T13:27:29-04:00'
 draft: false
 title: 'Adumbration'
-cover:
-  image: "adumbration.webp"
-  alt: ""
-  caption: ""
-  relative: false
 ---
 
 _in production_
+
+![Black and white image with a silhouette of a person standing against a larger illustration of and older man's face.](/adumbration.webp)
 
 ## Description
 Adumbration is a formal and narrative exploration at the intersection of experimental cinema, cosmic horror -which evokes existential dread and the incomprehensible-, and visual essay. Developed during a residency at Main Film with support from the Conseil des arts et des lettres du Québec (CALQ), the project continues my artistic research into memory, unstable imagery, and temporal disruption.

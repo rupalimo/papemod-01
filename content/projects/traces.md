@@ -7,10 +7,10 @@ title: 'Traces | آثار '
 - 8min 45sec, Lebanon & Canada, 2023
 - 16mm D2F & Super 8mm, Found Footage, Stereo
 
-## Description
-Adumbration is a formal and narrative exploration at the intersection of experimental cinema, cosmic horror -which evokes existential dread and the incomprehensible-, and visual essay. Developed during a residency at Main Film with support from the Conseil des arts et des lettres du Québec (CALQ), the project continues my artistic research into memory, unstable imagery, and temporal disruption.
+{{< vimeo 710318933 >}}
 
-Set in Beirut, the film follows a moviola (an analog film editing machine used to view and edit film by physically running the film through the device) , a survivor of a 1989 civil war explosion, as it attempts to rewind time to understand its own destruction. Through archival footage, analog glitches, and Lovecraftian invocations (references to the literary and aesthetic style of H.P. Lovecraft, characterized by the presence of incomprehensible, ancient, and otherworldly forces, existential dread, human insignificance, and the fear of the unknown), the film investigates memory, trauma, and the survival of images.
+## Description
+The project explores the cinematic gaze towards queer bodies as well as their constant absence from the recurrent narrative or collective memory. It started with the discovery of 80s pornographic found footage and so we asked ourselves the question, what if this was found in a dilapidated house? What if instead of the process of the image disintegrating, we bring it to life as if the disintegrated lives of queer women that were meant to stay unseen or disfigured or left to rot slowly come to life and assert their presence within the context of the 80s in Lebanon, a period so overtly represented by war and violence and from which all narrative about personal lives and intimacy is removed.
 
 ## Screenings
 
@@ -59,9 +59,24 @@ Set in Beirut, the film follows a moviola (an analog film editing machine used t
 
 <!-- ## Awards -->
 
-<!-- ## Distributor -->
+## Online Distributor
+- Acquired for distribution by [DA Films][1] (Oct 2025 > Oct 2027)
+- Licensed for distribution on [LaboCine][2] (January 2026)
+- Acquired for distribution by [TENK Canada][3] (Aug > Nov 2025)
+- Licensed for distribution on [GuideDoc][4] (2025)
+
+[1]: https://dafilms.com/film/18358-traces
+[2]: https://www.labocine.com/
+[3]: https://www.tenk.ca/fr/documentaires/archives/traces
+[4]: https://guidedoc.tv/documentary/traces_-documentary-film/#%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
 
 <!-- ## Credits -->
 
-<!-- ## Press -->
+## Press
+
+_Dans un premier temps, la pellicule vinaigrée présente le corps de deux femmes s’adonnant au jeu de la séduction et de l’érotisme. Si l’on peut présumer que cette bobine de film à caractère pornographique a d’abord été conçue pour un public masculin, l’on constate rapidement que Partamian se réapproprie ces images pour subvertir le male gaze et célébrer l’amour queer. **Frédéric Savard, Archiviste et programmateur**_
+
+_If you are looking for a haunting, experimental, and politically charged Sapphic (WLW) short film, Traces (Arabic title: آثار) is a critical work that emerged on the international circuit in 2024. **saphicfx**_
+
+_Traces de Chantal Partamian en est une démonstration exemplaire puisque dans la réappropriation, elle tient l'écart entre des plans voués à la commercialisation du cinéma pornographique et d'autres du monde dévasté par les guerres et les bandes terroristes qui font régner leur terreur. **Didier Samson Samson | Traverse Vidéo**_
 

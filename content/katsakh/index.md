@@ -13,7 +13,11 @@ Each film in “Katsakh” represents a fight for memory, preserving moments tha
 
 For inquiries or further information, please contact us via email at katsakh.project@gmail.com
 
-## Katsakh in the press
+{{< youtube fueoGaaBg7w >}}
+{{< youtube Mo2Rk5MTJGo >}}
+{{< youtube kYU5d8q7Pbc >}}
+
+## [Katsakh in the press][1]
 - Le Blog du Festival du film franco-arabe: Rencontre avec Chantal Partamian : autour de son projet KATSAKH 2 décembre 2023
 - Al-modon:  ترميم الذاكرة المصوّرة...شانْتال برتميان: أتلفْ أرشيفاً تَمحُ شعباً, زكي محفوض , 2023/06/21
 - Analog Cookbook, University of North Carolina Press, Issue #5, 2022: Analog futures | Katsakh
@@ -31,3 +35,5 @@ For inquiries or further information, please contact us via email at katsakh.pro
 - Réactualiser les archives pour une histoire au présent, Festival Aflam, Marseille, 2022
 - European Media Art Festival № 34 - 21/04 -02/05 - Osnabrueck - Germany Artist and curator Nour Ouayda (Beirut) presents a series on the history and present of video art in Lebanon. In Show Us the Money and We Will Resist, she traces the role that the resources and networks of Lebanese television played in the development of video art in the 1990s, and what new media infrastructures have taken their place to enable both artistic experimentation and intervention in society.
 - International Short Film Festival Oberhausen 2021 Under the title "Prophecies from the Sea", the curators are showing a programme "about the prophetic nature of cinematic works created in moments of transition". This includes both recent films that deal directly with the catastrophic explosion in Beirut a year ago, its causes and consequences, and older works that focus on earlier historical upheavals in Lebanon and its conflict-ridden history. Films by Chantal Partamian, Ali Cherri, the Atlas Group and Ghassan Salhab, among others, will be screened.
+
+[1]: https://site-kf7bck3b.wsecdn1.websitecdn.com/uploads/7aaae6eb7a2f43f5b732240d419b14ff.pdf?v=240301064218
