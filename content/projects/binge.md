@@ -4,9 +4,9 @@ draft: false
 title: 'Binge'
 ---
 
-- 41sec, Lebanon, 2016
-- Digital, Stereo
-- English
+1. 41sec, Lebanon, 2016
+2. Digital, Stereo
+3. English
 
 
 {{< vimeo 183940816 >}}

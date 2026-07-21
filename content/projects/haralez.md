@@ -4,7 +4,7 @@ draft: false
 title: 'Haralez: Noisy Beginnings of the Cradle'
 ---
 
-_in production_
+1. _In production_
 
 ![Image of a mountainous island surrounded by water.](/haralez.webp)
 

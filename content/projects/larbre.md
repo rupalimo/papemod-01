@@ -4,9 +4,9 @@ draft: false
 title: 'L’Arbre'
 ---
 
-- 2min 28sec, Canada, 2021
-- Super 8mm & 16mm, Stereo
-- Arabic audio, English & French subtitles
+1. 2min 28sec, Canada, 2021
+2. Super 8mm & 16mm, Stereo
+3. Arabic audio, English & French subtitles
 
 
 {{< vimeo 633699120 >}}

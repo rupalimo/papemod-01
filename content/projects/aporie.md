@@ -4,8 +4,8 @@ draft: false
 title: 'Aporie'
 ---
 
-- 30sec, Canada, 2022
-- Digital, Stereo
+1. 30sec, Canada, 2022
+2. Digital, Stereo
 
 {{< vimeo 645362212 >}}
 

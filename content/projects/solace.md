@@ -1,12 +1,12 @@
 ---
 date: '2026-07-17T13:02:00-04:00'
 draft: false
-title: 'Solace | عزاء '
+title: 'Solace عزاء '
 ---
 
-- 1min, Lebanon, 2021
-- Super 8mm, Stereo
-- Arabic,  English subtitles
+1. 1min, Lebanon, 2021
+2. Super 8mm, Stereo
+3. Arabic,  English subtitles
 
 {{< vimeo 555896430 >}}
 

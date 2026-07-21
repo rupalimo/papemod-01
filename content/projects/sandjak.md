@@ -4,9 +4,9 @@ draft: false
 title: 'Sandjak'
 ---
 
-- 8min 23sec, Lebanon & Canada, 2021
-- Smartphone, DSLR & Found Footage
-- Armenian audio, English & French subtitles
+1. 8min 23sec, Lebanon & Canada, 2021
+2. Smartphone, DSLR & Found Footage
+3. Armenian audio, English & French subtitles
 
 {{< vimeo 537343394 >}}
 

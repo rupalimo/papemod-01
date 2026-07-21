@@ -96,17 +96,23 @@
 
 .menu a {
 	font-size: 16px;
+		border: 1px solid transparent;
 }
 
 .menu a:hover {
 	text-decoration: underline;
 	text-underline-offset: 0.3rem;
 	text-decoration-thickness: 2px;
+	text-decoration-color: var(--underline);
+	color: var(--accent-color);
+	/* color: var(--accent-color);
+	border: 1px solid var(--accent-color); */
 }
 
 .menu .active {
 	font-weight: 500;
-	text-decoration: underline;
+		color: var(--accent-color);
+	/* text-decoration: underline;
 	text-underline-offset: 0.3rem;
-	text-decoration-thickness: 2px;
+	text-decoration-thickness: 2px; */
 }

@@ -97,7 +97,7 @@ chantalpartamian@gmail.com
 - Shelter | Tamara Qiblawi | Immersive documentary experience, Lebanon | 2015
 - Mshar2at | Khalil Bitar | Web-Series | 2015-2016
 - [After This Day][7] | Nigol Bezjian | Documentary | 2015
-- [Shelter | Tamara Qiblawi][8] | Documentary | 2015 
+- [Shelter - Tamara Qiblawi][8] | Documentary | 2015 
 - [Thank You Ladies and Gentlemen][9] | Nigol Bezjian | Documentary | 2014
 
 **Assistant Director**

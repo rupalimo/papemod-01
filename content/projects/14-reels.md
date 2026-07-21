@@ -3,9 +3,8 @@ date: '2026-07-17T13:01:57-04:00'
 draft: false
 title: '14 Reels'
 ---
-
-- 52min, Lebanon & Italy, 2016
-- Super 8mm & Digital, Stereo
+1. 52min, Lebanon & Italy, 2016
+2. Super 8mm & Digital, Stereo
 
 {{< vimeo 180585734 >}}
 

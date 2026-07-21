@@ -4,8 +4,8 @@ draft: false
 title: 'In Memoriam'
 ---
 
-- 1min 28sec, Lebanon & Armenia, 2014
-- Super 8mm, Digital, Stereo
+1. 1min 28sec, Lebanon & Armenia, 2014
+2. Super 8mm, Digital, Stereo
 
 {{< vimeo 112680638 >}}
 

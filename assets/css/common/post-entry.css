@@ -70,33 +70,6 @@
 	border-radius: var(--radius);
 }
 
-/* FIXED PROJECT MENU STYLING */
-.project--list {
-	padding: 0;
-}
-
-.project__menu {
-	max-width: var(--menu-width);
-	/* max-width: calc(var(--nav-width) + var(--gap) * 2); */
-	padding: var(--gap);
-	transition: transform 0.25s ease;
-	position: fixed;
-}
-
-.project--item {
-	transition: transform 0.25s ease;
-	list-style: none;
-	padding: 0 var(--gap) 12px 0;
-}
-
-.project--item:hover {
-	transform: translateY(-2px);
-}
-
-.project--list {
-	display: none;
-}
-
 .tag-entry .entry-cover {
 	display: none;
 }

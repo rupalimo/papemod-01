@@ -1,12 +1,12 @@
 ---
 date: '2026-07-17T13:01:16-04:00'
 draft: false
-title: 'Tekrar | تكرار'
+title: 'Tekrar تكرار'
 ---
 
-- 2min 16sec, Lebanon & Armenia, 2014
-- Super 8mm & VHS, Stereo
-- French audio
+1. 2min 16sec, Lebanon & Armenia, 2014
+2. Super 8mm & VHS, Stereo
+3. French audio
 
 {{< vimeo 197798400 >}}
 

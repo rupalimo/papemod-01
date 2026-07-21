@@ -1,12 +1,12 @@
 ---
 date: '2026-07-17T13:02:08-04:00'
 draft: false
-title: 'Houbout | هبوط'
+title: 'Houbout هبوط'
 ---
 
-- 2min 8sec, Beirut, Tunis, Montreal & Istanbul, Lebanon, 2020
-- 16mm D2F & Super 8mm, B&W, Stereo
-- Tunisian audio, English & French subtitles
+1. 2min 8sec, Beirut, Tunis, Montreal & Istanbul, Lebanon, 2020
+2. 16mm D2F & Super 8mm, B&W, Stereo
+3. Tunisian audio, English & French subtitles
 
 {{< vimeo 513409404 >}}
 

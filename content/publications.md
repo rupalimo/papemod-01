@@ -46,7 +46,7 @@ menu: header
 - Analog Erotica | Issue #8
 - University of North Carolina Press, 2023
 
-### La comptine de Madame Jarrar; Le Spectre Numérique.
+La comptine de Madame Jarrar; Le Spectre Numérique.
 - Zoom-Out / Là-bas (online film platform)
 - May 2023
 

@@ -1,11 +1,11 @@
 ---
 date: '2026-07-17T13:27:24-04:00'
 draft: false
-title: 'Traces | آثار '
+title: 'Traces آثار '
 ---
 
-- 8min 45sec, Lebanon & Canada, 2023
-- 16mm D2F & Super 8mm, Found Footage, Stereo
+1. 8min 45sec, Lebanon & Canada, 2023
+2. 16mm D2F & Super 8mm, Found Footage, Stereo
 
 {{< vimeo 710318933 >}}
 
@@ -55,7 +55,6 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 - Cinema Queer | Stockholm, Sweden
 - Queer City Cinema | Regina, Canada
 - Toronto Arab Film Festival | Toronto, Canada
-
 
 <!-- ## Awards -->
 

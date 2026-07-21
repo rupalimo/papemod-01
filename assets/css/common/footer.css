@@ -1,7 +1,12 @@
 .footer,
 .top-link {
     font-size: 12px;
-    color: var(--secondary);
+
+}
+
+.footer {
+
+    color: var(--tertiary);
 }
 
 .footer {
@@ -21,14 +26,10 @@
     white-space: nowrap;
 }
 
-.footer span + span {
-	display: none;
-}
-
 .footer a {
     color: inherit;
-    text-underline-offset: 0.25rem;
-    text-decoration: underline;
+    /* text-underline-offset: 0.25rem;
+    text-decoration: underline; */
 }
 
 .top-link {
@@ -54,7 +55,6 @@
     filter: drop-shadow(0px 0px 0px var(--theme));
 }
 
-.footer a:hover,
 .top-link:hover {
     color: var(--primary);
 }

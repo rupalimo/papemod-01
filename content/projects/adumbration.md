@@ -4,7 +4,7 @@ draft: false
 title: 'Adumbration'
 ---
 
-_in production_
+1. _In production_
 
 ![Black and white image with a silhouette of a person standing against a larger illustration of and older man's face.](/adumbration.webp)
 

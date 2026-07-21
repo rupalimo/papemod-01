@@ -4,7 +4,7 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+        <span>{{ now.Year }} &#183; <a href="{{ "" | absLangURL }}">{{ site.Title }} &#183;</a></span>
         {{- end }}
         {{/*  {{- print " · "}}  */}}
     {{- end }}
@@ -22,7 +22,7 @@
     */}}
     
     <span>
-        Powered by
+        Designed using
         <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>

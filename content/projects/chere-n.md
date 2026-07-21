@@ -4,9 +4,9 @@ draft: false
 title: 'Chère N.'
 ---
 
-- 7min, Beirut, Lebanon & France, 2007
-- Super 8mm, Stereo
-- French audio, English & German subtitles
+1. 7min, Beirut, Lebanon & France, 2007
+2. Super 8mm, Stereo
+3. French audio, English & German subtitles
 
 {{< vimeo 529497745 >}}
 

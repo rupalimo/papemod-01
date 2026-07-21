@@ -28,9 +28,9 @@ h6 {
 }
 
 body {
-	font-family: 'Arial', sans-serif;
 	word-break: break-word;
 	background: var(--theme);
+	
 }
 
 article,
@@ -54,7 +54,6 @@ h4,
 h5,
 h6 {
 	line-height: 1.2;
-
 }
 
 h1,
@@ -67,6 +66,11 @@ p {
 	margin-top: 0;
 	margin-bottom: 0;
 }
+
+ul {
+	list-style: circle;
+}
+
 
 ul,
 menu {
@@ -121,8 +125,4 @@ img {
 	max-width: 100%;
 	color: var(--secondary);
 	font-size: 12px;
-}
-
-menu li a {
-	font-family: var(--title-font);
 }

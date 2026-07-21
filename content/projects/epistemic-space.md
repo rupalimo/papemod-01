@@ -4,9 +4,9 @@ draft: false
 title: 'Epistemic Space'
 ---
 
-- 14min, Lebanon, Turkey & Armenia, 2016
-- Digital, Stereo
-- Armenian audio, English & French subtitles
+1. 14min, Lebanon, Turkey & Armenia, 2016
+2. Digital, Stereo
+3. Armenian audio, English & French subtitles
 
 {{< vimeo 134205557 >}}
 
