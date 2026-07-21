@@ -4,3 +4,5 @@ draft: false
 title: 'Chantal Partamian'
 description: 'Chantal Partamian'
 ---
+
+![](/home.webp)

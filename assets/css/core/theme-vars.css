@@ -1,7 +1,7 @@
 @import '../extended/custom_fonts.css';
 
 :root {
-	--title-font: 'scorpius', Arial, sans-serif;
+	--title-font: Arial, sans-serif;
 	--gap: 24px;
 	--content-gap: 20px;
 	--nav-width: 1024px;

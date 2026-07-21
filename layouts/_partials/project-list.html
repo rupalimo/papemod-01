@@ -1,5 +1,4 @@
 
-
 <div class="project__menu">
 <p class="_label">Projects</p>
 <menu>
@@ -9,7 +8,12 @@
 		class="project--item _draft"
 		{{- else }}
 		class="project--item"
-			{{- end }}><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{- end }}>
+				
+			<a 
+		
+			href="{{ .RelPermalink }}">{{ .Title }}</a>
+		</li>
 	{{ end }}
 </menu>
 </div>
