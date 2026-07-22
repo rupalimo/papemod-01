@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'scorpius';
-  src: url('fonts/scorpius.otf') format('opentype');
+  src: url('/fonts/scorpius.otf') format('opentype');
   font-style: normal;
 }
 
 @font-face {
   font-family: 'crimson';
-  src: url('fonts/CrimsonText-Regular.ttf') format('truetype');
+  src: url('/fonts/CrimsonText-Regular.ttf') format('truetype');
   font-style: normal;
 }
 
 @font-face {
   font-family: 'crimson-bld';
-  src: url('fonts/CrimsonText-SemiBold.ttf') format('truetype');
+  src: url('/fonts/CrimsonText-SemiBold.ttf') format('truetype');
   font-style: normal;
 }

@@ -6,7 +6,7 @@ title: 'Haralez: Noisy Beginnings of the Cradle'
 
 1. _In production_
 
-![](imgs/haralez.webp)
+![Image of a mountainous island surrounded by water.](/imgs/haralez.webp)
 
 ## Description
 Ghosts linger in the margins of history, inhabiting spaces that appear empty but are heavy with erased narratives. Mythological creatures emerge as echoes of cultural memory, carrying the remnants of ancestral lineages lost to time. Cemeteries are repurposed into parks, parks become spaces of resistance, and the dust of the past lingers in fountains sculpted from the marble of forgotten gravestones.
