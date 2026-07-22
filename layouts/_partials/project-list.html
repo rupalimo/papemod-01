@@ -1,21 +1,14 @@
-
 <div class="project__menu">
-{{/*  <p class="_label">Projects</p>  */}}
+	{{/*
+	<p class="_label">Projects</p>
+	*/}}
+
 <menu>
-	{{ range where .Site.RegularPages.ByDate.Reverse "Type" "projects" }}
-	<li
-  {{- if .Draft }}
-		class="project--item _draft"
-		{{- else }}
-		class="project--item"
-			{{- end }}>
-				
-			<a 
-		
-			href="{{ .RelPermalink }}">{{ .Title }}</a>
-		</li>
-	{{ end }}
+  {{ $current := . }}
+  {{ range where .Site.RegularPages.ByDate.Reverse "Type" "projects" }}
+    <li class="project--item{{ if eq . $current }} active{{ end }}">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
 </menu>
 </div>
-
-

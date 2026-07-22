@@ -16,7 +16,6 @@ menu {
 	padding: 0;
 }
 
-
 /* 
 .header-nav {
 	display: flex;
@@ -60,24 +59,44 @@ menu {
 
 .project--item:hover {
 	transform: translateY(0);
-		transition: all 15s ease;
+	transition: all 15s ease;
 }
 
-.project--item:hover a {
+.project--item:hover a,
+.project--item.active a {
 	color: var(--accent-color);
+		transition: all 0.15s ease;
+}
 
+.project--item:hover a::before {
+	background: transparent;
+}
+
+.project--item.active a::before {
+	background: var(--underline);
 }
 
 .project--item:hover a::before {
 	content: '';
-	height: 0.5rem;
-	width: 0.5rem;
-	border-radius: var(--radius);
+	height: 0.3rem;
+	width: 0.3rem;
 	display: inline-block;
-	background: var(--underline);
 	margin-right: 0.5rem;
 	vertical-align: middle;
 	transition: all 0.5s ease;
+	border: none;
+}
+
+.project--item.active a::before {
+	content: '';
+	height: 0.3rem;
+	width: 0.3rem;
+	display: inline-block;
+	margin-right: 0.5rem;
+	vertical-align: middle;
+	transition: all 0.5s ease;
+	border: none;
+	border-radius: var(--radius);
 }
 
 .project--list,
