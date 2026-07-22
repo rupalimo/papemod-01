@@ -15,7 +15,7 @@ Chantal Partamian's work spans both the artistic and archival realms, merging ex
 ## Contact
 chantalpartamian@gmail.com
 
-![A grainy blue tinted image of a camera lens framed by a ornate white oval shaped frame.](/imgs/about.webp)
+![A grainy blue tinted image of a camera lens framed by a ornate white oval shaped frame.](/about.webp)
 
 ## Distributor
 - [Vidéographe][2]
