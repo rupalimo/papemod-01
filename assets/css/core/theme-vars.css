@@ -12,9 +12,11 @@
 	--menu-height: 36px;
 	--menu-width: 240px;
 	--footer-height: 60px;
-	--radius: 12px;
-	--accent-color: rgb(34, 7, 242);
-	--underline:  rgb(160, 243, 36);
+	--radius: 6px;
+	/* --accent-color: rgb(34, 7, 242);
+	--underline:  rgb(160, 243, 36); */
+	--accent-color: rgb(110, 8, 8);
+  --underline: rgb(121, 224, 255);
 	--theme: rgb(255, 255, 255);
 	--entry: rgb(255, 255, 255);
 	--primary: rgb(30, 30, 30);

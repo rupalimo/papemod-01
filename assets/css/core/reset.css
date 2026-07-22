@@ -5,7 +5,7 @@
 }
 
 ::selection {
-	background: yellow;
+	background: var(--tertiary);
 }
 
 html {

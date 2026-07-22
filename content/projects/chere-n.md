@@ -22,7 +22,7 @@ A point of view that moves from Dahieh in Beirut toward a nearby bridge under re
 - TENK France | Online Platform
 
 **2025**
-- Ultradogme Movie Club | 
+- Ultradogme Movie Club 
 
 **2024**
 - Réalisatrices Équitables Ciné-club: Solidaire Liban | Montreal, Canada
