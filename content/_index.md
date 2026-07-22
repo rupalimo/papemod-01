@@ -5,4 +5,4 @@ title: 'Chantal Partamian'
 description: 'Chantal Partamian'
 ---
 
-![](/imgs/home.webp)
+![](imgs/home.webp)
