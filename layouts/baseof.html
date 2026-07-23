@@ -22,7 +22,7 @@
 <body id="top">
 {{- end }}
     {{ partialCached "header.html" . .Page -}}
-
+{{- partial "mobile_menu.html" . }}
     {{- partial "project-list.html" . }}
 
     <main class="main">

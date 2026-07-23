@@ -1,8 +1,4 @@
 <div class="project__menu">
-	{{/*
-	<p class="_label">Projects</p>
-	*/}}
-
 <menu>
   {{ $current := . }}
   {{ range where .Site.RegularPages.ByDate.Reverse "Type" "projects" }}
@@ -12,3 +8,5 @@
   {{ end }}
 </menu>
 </div>
+
+
