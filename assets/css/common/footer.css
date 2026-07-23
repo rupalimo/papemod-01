@@ -34,14 +34,15 @@
 
 .top-link {
     position: fixed;
-    bottom: 4rem;
+    bottom: 3rem;
     right: 2rem;
     z-index: 99;
-    background: var(--tertiary);
+    border: 1px solid var(--underline);
+    background: white;
     width: 2.5rem;
     height: 2.5rem;
     padding: 10px;
-    border-radius: 64px;
+    border-radius: var(--radius);
     transition: visibility .3s, opacity .3s cubic-bezier(0.4, 0, 1, 1);
 }
 
