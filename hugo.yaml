@@ -1,4 +1,4 @@
-baseURL: https://rupalimo.github.io/
+baseURL: https://rupalimo.github.io/papemod-01/
 locale: en-us
 title: Chantal Partamian
 theme: PaperMod
@@ -29,3 +29,16 @@ menus:
       pageRef: /katsakh
       weight: 40
 
+markup:
+  goldmark:
+    renderHooks:
+      image:
+        useEmbedded: always
+      link:
+        useEmbedded: always
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: static
+      target: assets

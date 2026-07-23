@@ -2,7 +2,6 @@
 date: '2026-07-14T19:16:29-04:00'
 draft: false
 title: 'Publications'
-menu: header
 ---
 
 - Conversation, Presence, Politics | World Records Journal, Roundtable 2 | December 2025

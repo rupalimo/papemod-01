@@ -1,5 +1,3 @@
-@import '../extended/custom_fonts.css';
-
 :root {
 	--main-font: Arial, sans-serif;
 	--title-font: 'crimson', Arial, sans-serif;
@@ -15,7 +13,7 @@
 	--radius: 6px;
 	/* --accent-color: rgb(34, 7, 242);
 	--underline:  rgb(160, 243, 36); */
-	--accent-color: rgb(110, 8, 8);
+	--accent-color: rgb(149, 23, 10);
   --underline: rgb(121, 224, 255);
 	--theme: rgb(255, 255, 255);
 	--entry: rgb(255, 255, 255);

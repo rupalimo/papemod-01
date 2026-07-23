@@ -3,7 +3,6 @@ date: '2026-07-16T11:31:30-04:00'
 draft: false
 title: 'About'
 ShowToc: true
-menu: header
 ---
 
 Chantal Partamian is an experimental filmmaker and archivist with a focus on super 8mm and found footage. Her films, recognized and awarded at numerous festivals, are distributed through Vidéographe, Groupe Intervention Vidéo (GIV), and the Canadian Filmmakers Distribution Center.
