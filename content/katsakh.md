@@ -17,22 +17,70 @@ For inquiries or further information, please contact us via email at katsakh.pro
 {{< youtube kYU5d8q7Pbc >}}
 
 ## [Katsakh in the press][1]
-- Le Blog du Festival du film franco-arabe: Rencontre avec Chantal Partamian : autour de son projet KATSAKH 2 décembre 2023
-- Al-modon:  ترميم الذاكرة المصوّرة...شانْتال برتميان: أتلفْ أرشيفاً تَمحُ شعباً, زكي محفوض , 2023/06/21
-- Analog Cookbook, University of North Carolina Press, Issue #5, 2022: Analog futures | Katsakh
-- International Association of Armenian Librarians and Archivists — In Focus #13 (2025):Invited presentation and talk, “Katsakh Mediterranean Archives – Lingering Traces: Collecting Absence in Family Films and Travelogues,” featuring Chantal Partamian. - Oct. 18th 2025
-- The Deutsche Kinemathek "Film Restored" : A curated program by Germany’s national film archive presenting newly restored films, highlighting archival preservation, historical context, and contemporary access to film heritage. Oct. 2025
-- Rumman Music Festival Cineconcert (With Ghassan Sahhab and Fadi Tabbal) – Sept. 2025
-- CRIalt - Centre de recherches intermédiales sur les arts, les lettres et les techniques : Les archives visuelles de la Méditerranée – Présentation du projet KATSAKH - 2025
-- Aflam Festival - Vives Archives: Katsakh: Mediterranean Archives, Le Polygone Étoilé, Marseille. Avril, 2025.
-- Home Movie Day - Paris: Ciné Concert.  La 10e édition du Home Movie Day Paris aura lieu le samedi 12 octobre à la Générale. Apportez vos films pour l'Open Screen et découvrez des images d'archives précieuses autour de l'Algérie, la Palestine, le Liban, l'Italie, l'Egypte, la Jordanie
-- Symposium XP - symposium sur le cinéma expérimental- Montréal - Journal d'une occupation : films et images tournées en Palestine (1920-2024). Performance musicale live de Sam Shalabi accompagnée d'images d'archives de la collection 'Katsakh' tournées en Palestine, Liban Sud, Jordanie (1920-2011).
-- Radical film Network - Madrid Espagne: Katsakh: In search of mediterranean archives, Juin 2024
-- Festival du film franco-arabe de Noisy-le-Sec Samedi 25 novembre 2023 Projection de films de famille 8 et 16 mm numérisés et assemblés par Chantal Partamian, accompagnés musicalement au oud par le soliste Damien Sarret
-- Galerie Leonard & Bina Ellen Art Gallery: Mediterranean Explorations: Evolving archives and varied perspectives
-- Lebanese film festival Canada, Katsakh: Reconstruction d'une mémoire imagée.   Juin 2023
-- Réactualiser les archives pour une histoire au présent, Festival Aflam, Marseille, 2022
-- European Media Art Festival № 34 - 21/04 -02/05 - Osnabrueck - Germany Artist and curator Nour Ouayda (Beirut) presents a series on the history and present of video art in Lebanon. In Show Us the Money and We Will Resist, she traces the role that the resources and networks of Lebanese television played in the development of video art in the 1990s, and what new media infrastructures have taken their place to enable both artistic experimentation and intervention in society.
-- International Short Film Festival Oberhausen 2021 Under the title "Prophecies from the Sea", the curators are showing a programme "about the prophetic nature of cinematic works created in moments of transition". This includes both recent films that deal directly with the catastrophic explosion in Beirut a year ago, its causes and consequences, and older works that focus on earlier historical upheavals in Lebanon and its conflict-ridden history. Films by Chantal Partamian, Ali Cherri, the Atlas Group and Ghassan Salhab, among others, will be screened.
+
+### Le Blog du Festival du film franco-arabe: Rencontre avec Chantal Partamian : autour de son projet KATSAKH
+- 2 décembre 2023
+
+### ترميم الذاكرة المصوّرة...شانْتال برتميان: أتلفْ أرشيفاً تَمحُ شعباً, زكي محفوض 
+- Al-modon, 2023/06/21
+
+### Analog futures | Katsakh
+- Analog Cookbook, Issue #5
+- University of North Carolina Press, 2022
+
+### Lingering Traces: Collecting Absence in Family Films and Travelogues
+- International Association of Armenian Librarians and Archivists — In Focus #13 (2025): Invited presentation and talk, 
+- Oct. 18th 2025
+
+### Film Restored
+- A curated program by Germany’s national film archive presenting newly restored films, highlighting archival preservation, historical context, and contemporary access to film heritage
+- The Deutsche Kinemathek, Oct. 2025
+
+### Rumman Music Festival Cineconcert
+- With Ghassan Sahhab and Fadi Tabbal
+- Sept. 2025
+
+### Les archives visuelles de la Méditerranée 
+- CRIalt - Centre de recherches intermédiales sur les arts, les lettres et les techniques 
+- Présentation du projet KATSAKH, 2025
+
+### Katsakh: Mediterranean Archives, Le Polygone Étoilé
+- Aflam Festival, Vives Archives
+- Marseille, Avr. 2025.
+
+### Home Movie Day
+- La 10e édition du Home Movie Day Paris aura lieu le samedi 12 octobre à la Générale
+- Paris: Ciné Concert
+
+### Journal d'une occupation
+- Symposium XP, symposium sur le cinéma expérimental, Montréal
+- Films et images tournées en Palestine (1920-2024)
+- Performance musicale live de Sam Shalabi accompagnée d'images d'archives de la collection 'Katsakh' tournées en Palestine, Liban Sud, Jordanie (1920-2011).
+
+### Katsakh: In search of mediterranean archives
+- Radical film Network - Madrid Espagne
+- Madrid Espagn, Juin 2024
+
+### Projection de films de famille 8 et 16 mm numérisés et assemblés par Chantal Partamian
+- Festival du film franco-arabe de Noisy-le-Sec, nov. 2023 
+- Projection de films de famille 8 et 16 mm numérisés et assemblés par Chantal Partamian, accompagnés musicalement au oud par le soliste Damien Sarret
+
+###  Mediterranean Explorations: Evolving archives and varied perspectives
+- Galerie Leonard & Bina Ellen Art Gallery
+
+### Katsakh: Reconstruction d'une mémoire imagée
+- Lebanese film festival Canada, Juin 2023
+
+### Réactualiser les archives pour une histoire au présent
+- Festival Aflam, Marseille, 2022
+
+### Show Us the Money and We Will Resist
+- European Media Art Festival № 34 
+- Osnabrueck, Germany 
+
+### Prophecies from the Sea
+- The curators are showing a programme "about the prophetic nature of cinematic works created in moments of transition". This includes both recent films that deal directly with the catastrophic explosion in Beirut a year ago, its causes and consequences, and older works that focus on earlier historical upheavals in Lebanon and its conflict-ridden history. Films by Chantal Partamian, Ali Cherri, the Atlas Group and Ghassan Salhab, among others, will be screened.
+- International Short Film Festival Oberhausen, 2021
+
 
 [1]: https://site-kf7bck3b.wsecdn1.websitecdn.com/uploads/7aaae6eb7a2f43f5b732240d419b14ff.pdf?v=240301064218
