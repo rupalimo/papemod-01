@@ -9,6 +9,7 @@ params:
   hideSummary: true
   disableThemeToggle: true
   showPostNavLinks: true
+  defaultTheme: light
 
 caches:
   images:
